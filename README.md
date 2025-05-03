@@ -377,6 +377,3 @@ This project is licensed under the ISC License.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
----
-
-Built with ❤️ by [Your Name]
